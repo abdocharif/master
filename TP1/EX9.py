@@ -11,6 +11,6 @@ def analyse_texte(texte):
     }
     return resultat
 
-texte = "Python est un langage de programmation puissant."
+texte = " Python est un langage de programmation puissant."
 resultat = analyse_texte(texte)
-print(resultat) 
+print(resultat)

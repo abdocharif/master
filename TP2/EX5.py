@@ -10,7 +10,6 @@ class Chat(Animal):
     def faire_du_bruit(self):
         print("Meow!")
 
-
 chien = Chien()
 chat = Chat()
 

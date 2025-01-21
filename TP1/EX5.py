@@ -1,6 +1,6 @@
 def factorielle(n):
     if n < 0:
-        print "erreur"
+        print ("erreur")
     if n == 0 or n == 1:
         return 1
     return n * factorielle(n - 1)
